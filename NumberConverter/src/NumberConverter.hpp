@@ -1,6 +1,6 @@
 
-#ifndef NUMBERCONVERSOR2_H
-#define NUMBERCONVERSOR2_H
+#ifndef NUMBERCONVERTER_H
+#define NUMBERCONVERTER_H
 
 #include <vector>
 #include <string>
